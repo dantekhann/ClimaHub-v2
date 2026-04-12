@@ -24,10 +24,12 @@ Open-Meteo API: Fonte de dados meteorológicos e geocodificação gratuita.
 📂 Estrutura do Projeto
 Plaintext
 new-wheather-app/
+
 ├── index.html          # Estrutura principal da aplicação
+
 ├── style.css           # Estilização Neon Glass e animações
+
 ├── script.js           # Lógica de consumo da API e controle de UI
-└── .gitignore          # Arquivo para ignorar arquivos de sistema e ferramentas
 
 ## 🔧 Como Rodar o Projeto
 
