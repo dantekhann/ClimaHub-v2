@@ -1,4 +1,4 @@
-🌤️ Meu Clima Realtime — V2
+🌤️ ClimaHub — V2
 Um aplicativo de previsão do tempo dinâmico e responsivo, desenvolvido em JavaScript puro (Vanilla JS). O app permite buscar informações meteorológicas de qualquer cidade do mundo em tempo real, utilizando um design Dark Neon com efeitos de Glassmorphism.
 
 🚀 Funcionalidades
