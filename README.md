@@ -35,7 +35,7 @@ new-wheather-app/
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/meu-clima-v2.git](https://github.com/SEU-USUARIO/meu-clima-v2.git)
+   git clone [https://github.com/SEU-USUARIO/ClimaHub-v2.git](https://github.com/SEU-USUARIO/meu-clima-v2.git)
 
 ##  👤 Autor
 
